@@ -1,8 +1,8 @@
 # CS50’s Introduction to Programming with Python
 
-__Here are my solutions for CS50's Introduction to Programming with Python 2023.__
+Here are my solutions for CS50's Introduction to Programming with Python 2023.
 
-## ❗The following codes are for educational purpose only and not intended to be submitted as your own.
+__❗The following codes are for educational purpose only and not intended to be submitted as your own.__
 
 ## Table of Contents
 ### [Problem Set 0](/problem_set_0/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
